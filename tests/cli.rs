@@ -1,7 +1,5 @@
-const DATA: &str = r#"Rust's package manager
-
-USAGE:
-"#;
+const DATA: &str = r#"'
+:"#;
 
 #[test]
 fn cli_tests() {
