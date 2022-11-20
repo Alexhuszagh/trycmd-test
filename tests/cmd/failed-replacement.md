@@ -1,0 +1,5 @@
+```
+$ trycmd-test
+[REPLACE]
+
+```

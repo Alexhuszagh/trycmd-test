@@ -1,0 +1,7 @@
+[package]
+name = "trycmd-test"
+version = "0.1.0"
+edition = "2021"
+
+[dev-dependencies]
+trycmd = "0.14.4"
